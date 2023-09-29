@@ -1,6 +1,8 @@
+##Python Item Price Scraper
+
 This Program is a simple cmd program that allows for the retrieval of Prices for searched items across:
 
-    ebay
+-ebay
 
 How to use:
 
